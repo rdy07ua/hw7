@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Створити метод який повертає куб заданого числа
+
 public class Main {
 
     public static int cube(int number) {
